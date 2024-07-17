@@ -1,1 +1,3 @@
+This repository contains the prompt template, an example report, and a demonstration video for the Intel Extractor agent. The Intel Extractor is an AI-powered tool designed to help financial crime analyst, itelligence analysts and compliance professionals efficiently extract and organize key information from lengthy reports. The agent identifies and extracts names, entities, vessels, tail numbers, regions, and context related to sanction evasion and terror financing, formatting the output into a `.docx` file for easy analysis and review.
+
 [Check out the Intel Extractor Agent in action.](https://youtu.be/oU53QCfc53Y)
